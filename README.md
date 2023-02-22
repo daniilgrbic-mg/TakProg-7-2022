@@ -13,7 +13,7 @@ Sledeci termin dodatne je sreda 1. Marta u 15h, u mediateci.
     - [poredjenje niski, leksikografski poredak](/materijali/niske_pregled.md#poredjenje-niski)
     - [ulaz do kraja fajla (to jest sve dok ima nesto na ulazu)](/materijali/primeri/unos_do_kraja_ulaza.cpp)
 - Zadaci radjeni na casu: 
-    - [Izbacivanje podniski](https://petlja.org/biblioteka/r/Zbirka/izbacivanje_podniski)
+    - Izbacivanje podniske: date su niske A i B, i potrebno je ukloniti sva pojavljivanja B iz A. Na primer, za `A="dalekodalje"` i `B="da"` rezultat je `"lekolje"`.
     - [Leksikografski poredak](https://petlja.org/biblioteka/r/Zbirka/leksikografski_poredak)
     - [Leksikografski poredak bez razlika izmedju velikih i malih slova](https://petlja.org/biblioteka/r/Zbirka/leksikografski_poredak_velikamala) - ovde je potrebno korisitit `tolower` ili `toupper`, pogledajte materijale za poredjenje!
     - [Podela linije na reci](https://petlja.org/biblioteka/r/Zbirka/podela_linije_na_reci)
