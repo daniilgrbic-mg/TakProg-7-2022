@@ -33,3 +33,6 @@
 
 # Pdfs
 *.pdf
+
+# editor
+.vscode/
