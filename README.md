@@ -1,11 +1,25 @@
 # TakProg-7
 
 ```
-Sledeci termin dodatne je sreda 1. Marta u 15h, u mediateci.
+Sledeci termin dodatne je sreda 15. Marta u 15h, u mediateci.
 ```
 
-- Na casovima vecinom radimo zadatke iz [Petljine zbirke](https://petlja.org/biblioteka/r/kursevi/Zbirka)
+- [**Petljina zbirka sa zadacima i resenjima (pdf)**](https://petljamediastorage.blob.core.windows.net/root/Media/Default/Kursevi/Zbirka/Zbirka1cpp.pdf)
+- Testirati zadatke iz zbirke mozete [na petlji](https://petlja.org/biblioteka/r/kursevi/Zbirka)
 - Za proucavanje C++ sintakse korisno je nauciti da koristite reference poput [cplusplus.com](https://cplusplus.com/reference/) (gore u pretrazi trazite sta vas zanima, na primer `string` za niske, pa mozete da vidite pregled funkcija nad niskama kao sto su `substr` i `find` kao i primere kodova)
+
+### 8. Mart
+
+### 1. Mart - matrice, uvod u slozenost
+- Novo gradivo:
+    - [Deklaracija, unos, i ispis matrice](/materijali//primeri/matrice.cpp) - pogledajte i stranu 328 u zbirci
+    - Slozenost: koliko velicina ulaza utice na brzinu koda
+        - Primer: dat je broj `t`; `t` puta se unosi broj `n <= 50`, i potrebno je ispisati `n`-ti fibonacijev broj
+        - Naivno resenje: `t` puta pokrecemo algoritam koji od pocetka trazi `n`-ti fibonacijev broj - [kod](/materijali/primeri/fibonaci_spor.cpp). Slozenost je **O(t*n)**, to znaci da se neke linije u kodu izvrse t*n puta (linije unutar druge for-petlje)
+        - Dobro resenje: najpre izracunamo prvih 50 fibonacijevih brojeva i sacuvamo u nizu. Zatim `t` puta prosto ispisujemo clanove naseg niza. Slozenost je **O(t+n)**!
+- Zadaci radjeni na casu (strane 329 - 331):
+    - [Broj bombi u okolini](https://petlja.org/biblioteka/r/Zbirka/broj_bombi_u_okolini)
+    - [Broj pravougaonika na slici](https://petlja.org/biblioteka/r/Zbirka/broj_pravougaonika_na_slici)
 
 ### 21. Feb - funkcija niski `erase` i leksikografski poredak
 - Novo gradivo: 
