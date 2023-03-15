@@ -8,6 +8,10 @@ Sledeci termin dodatne je sreda 15. Marta u 15h, u mediateci.
 - Testirati zadatke iz zbirke mozete [na petlji](https://petlja.org/biblioteka/r/kursevi/Zbirka)
 - Za proucavanje C++ sintakse korisno je nauciti da koristite reference poput [cplusplus.com](https://cplusplus.com/reference/) (gore u pretrazi trazite sta vas zanima, na primer `string` za niske, pa mozete da vidite pregled funkcija nad niskama kao sto su `substr` i `find` kao i primere kodova)
 
+### 15. Mart
+- [Vektori i sortiranje](/materijali/primeri/vektori.cpp)
+- [Binarna pretraga](/materijali/primeri/lower_bound.cpp)
+
 ### 8. Mart
 
 ### 1. Mart - matrice, uvod u slozenost
