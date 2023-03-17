@@ -1,18 +1,19 @@
 # TakProg-7
 
 ```
-Sledeci termin dodatne je sreda 15. Marta u 15h, u mediateci.
+Sledeci termin dodatne je sreda 22. Marta u 15h, u mediateci.
 ```
 
 - [**Petljina zbirka sa zadacima i resenjima (pdf)**](https://petljamediastorage.blob.core.windows.net/root/Media/Default/Kursevi/Zbirka/Zbirka1cpp.pdf)
 - Testirati zadatke iz zbirke mozete [na petlji](https://petlja.org/biblioteka/r/kursevi/Zbirka)
 - Za proucavanje C++ sintakse korisno je nauciti da koristite reference poput [cplusplus.com](https://cplusplus.com/reference/) (gore u pretrazi trazite sta vas zanima, na primer `string` za niske, pa mozete da vidite pregled funkcija nad niskama kao sto su `substr` i `find` kao i primere kodova)
 
-### 15. Mart
-- [Vektori i sortiranje](/materijali/primeri/vektori.cpp)
-- [Binarna pretraga](/materijali/primeri/lower_bound.cpp)
 
-### 8. Mart
+### 15. i 8. Mart
+- [Slozenost algoritama](https://www.codeblog.rs/clanci.php?p=klase_slozenosti_algoritama) - procitate ovo ako ne znate sta je, ili ako stradate od TLE na takmicenjima, okej je napisano
+- [Vektori i efikasno sortiranje](/materijali/primeri/vektori.cpp)
+- [Binarna pretraga (Wiki)](https://sr.wikipedia.org/wiki/Бинарна_претрага) 
+- [Binarna pretraga u C++ (ugradjene funkcije)](/materijali/primeri/lower_bound.cpp)
 
 ### 1. Mart - matrice, uvod u slozenost
 - Novo gradivo:

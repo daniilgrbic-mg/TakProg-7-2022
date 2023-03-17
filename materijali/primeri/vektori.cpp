@@ -20,13 +20,27 @@ bool neparni_sort(int a, int b) {
 
 int main()
 {
+/* 
+    DEKLARACIJA VEKTORA & KORISNE FUNKCIJE
+*/
+
     vector <int> prazan_vektor_intova;
     vector <int> vektor_sa_datim_vrednostima = {1, 2, 3, 4, 5};
     vector <int> sa_8_nula (8); // isto smo mogli da stavimo vektor(8, 0)
     vector <int> sa_10_petica (10, 5);
     vector <string> pet_cao (5, "cao");
 
-    vektor_sa_datim_vrednostima.push_back(6); // dodajemo 6 na kraj vektora
+    // dodavanje elementa u vektor (dodajemo 6 na kraj vektora)
+    vektor_sa_datim_vrednostima.push_back(6);
+
+    // duzina vektora
+    cout << "duzina vektor_sa_datim_vrednostima: " << vektor_sa_datim_vrednostima.size() << endl;
+
+/* 
+    EFIKASNO SORTIRANJE VEKTORA 
+        (slozenost je NlogN), dakle niz od milion elemenata 
+        sortira u oko 20 miliona koraka (to jeste dobro, trust me)
+*/
 
     vector <int> za_sort = {1, 4, 2, 3, 7, 6, 5, 9, 8, 0};
 
@@ -54,6 +68,9 @@ int main()
     }
     cout << endl;
 
+/*
+    ISPISIVANJE VEKTORA NA MODERAN NACIN
+*/
     for(int el : za_sort) {
         cout << el << " ";
     }
