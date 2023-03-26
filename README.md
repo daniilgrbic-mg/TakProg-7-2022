@@ -1,7 +1,7 @@
 # TakProg-7
 
 ```
-Sledeci termin dodatne je sreda 22. Marta u 15h, u mediateci.
+Sledeci termin dodatne je sreda 29. Marta u 15h, u mediateci.
 ```
 
 - [**Petljina zbirka sa zadacima i resenjima (pdf)**](https://petljamediastorage.blob.core.windows.net/root/Media/Default/Kursevi/Zbirka/Zbirka1cpp.pdf)
