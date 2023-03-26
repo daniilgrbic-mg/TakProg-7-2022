@@ -8,6 +8,11 @@ Sledeci termin dodatne je sreda 22. Marta u 15h, u mediateci.
 - Testirati zadatke iz zbirke mozete [na petlji](https://petlja.org/biblioteka/r/kursevi/Zbirka)
 - Za proucavanje C++ sintakse korisno je nauciti da koristite reference poput [cplusplus.com](https://cplusplus.com/reference/) (gore u pretrazi trazite sta vas zanima, na primer `string` za niske, pa mozete da vidite pregled funkcija nad niskama kao sto su `substr` i `find` kao i primere kodova)
 
+### 26. Mart (online) - mape i rekurzija
+- [Mape u C++](/primeri/mape.cpp)
+- [Funkcije i rekurzija](/primeri/funkcije.cpp)
+- [Drzavno 2019. zadatak "Razlika visina"](/resenja_zadataka/razlika_visina.cpp)
+- [Drzavno 2018. zadatak "Binarni nizovi"](/resenja_zadataka/binari_nizovi.cpp)
 
 ### 15. i 8. Mart
 - [Slozenost algoritama](https://www.codeblog.rs/clanci.php?p=klase_slozenosti_algoritama) - procitate ovo ako ne znate sta je, ili ako stradate od TLE na takmicenjima, okej je napisano
