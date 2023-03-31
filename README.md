@@ -8,13 +8,22 @@ Sledeci termin dodatne je sreda 29. Marta u 15h, u mediateci.
 - Testirati zadatke iz zbirke mozete [na petlji](https://petlja.org/biblioteka/r/kursevi/Zbirka)
 - Za proucavanje C++ sintakse korisno je nauciti da koristite reference poput [cplusplus.com](https://cplusplus.com/reference/) (gore u pretrazi trazite sta vas zanima, na primer `string` za niske, pa mozete da vidite pregled funkcija nad niskama kao sto su `substr` i `find` kao i primere kodova)
 
+### 29. Mart - zadaci iz rekurzije i mapa
+- [Prosledjivanje argumenata po vrednosti i po adresi](/primeri/funkcije_argumenti.cpp)
+- [Efikasno racunanje stepena](/primeri/rek_stepenovanje.cpp)
+- [Rekurzivni NZD](/primeri/rek_binarna_pretraga.cpp)
+- [Rekurzivna binarna pretraga](/primeri/rek_binarna_pretraga.cpp)
+- [Najveci ponovljeni element](https://petlja.org/biblioteka/r/Zbirka2/najveci_duplikat1) [resenje](/resenja_zadataka/najveci_ponovljeni_element.cpp)
+- [3Zbir](https://petlja.org/biblioteka/r/Zbirka2/three_sum) [resenje](/resenja_zadataka/three_sum.cpp)
+- [Republicko 2022, Dokaz](/resenja_zadataka/22_dokaz.cpp)
+
 ### 26. Mart (online) - mape i rekurzija
 - [Mape u C++](/primeri/mape.cpp)
 - [Funkcije i rekurzija](/primeri/funkcije.cpp)
 - [Drzavno 2019. zadatak "Razlika visina"](/resenja_zadataka/razlika_visina.cpp)
 - [Drzavno 2018. zadatak "Binarni nizovi"](/resenja_zadataka/binari_nizovi.cpp)
 
-### 15. i 8. Mart
+### 15. i 8. Mart - vektori, efikasno sortiranje, binarna pretraga
 - [Slozenost algoritama](https://www.codeblog.rs/clanci.php?p=klase_slozenosti_algoritama) - procitate ovo ako ne znate sta je, ili ako stradate od TLE na takmicenjima, okej je napisano
 - [Vektori i efikasno sortiranje](/materijali/primeri/vektori.cpp)
 - [Binarna pretraga (Wiki)](https://sr.wikipedia.org/wiki/Бинарна_претрага) 
@@ -33,9 +42,9 @@ Sledeci termin dodatne je sreda 29. Marta u 15h, u mediateci.
 
 ### 21. Feb - funkcija niski `erase` i leksikografski poredak
 - Novo gradivo: 
-    - [brisanje delova niski](/materijali/niske_pregled.md#funkcija-erase)
-    - [poredjenje niski, leksikografski poredak](/materijali/niske_pregled.md#poredjenje-niski)
-    - [ulaz do kraja fajla (to jest sve dok ima nesto na ulazu)](/materijali/primeri/unos_do_kraja_ulaza.cpp)
+    - [brisanje delova niski](/niske_pregled.md#funkcija-erase)
+    - [poredjenje niski, leksikografski poredak](/niske_pregled.md#poredjenje-niski)
+    - [ulaz do kraja fajla (to jest sve dok ima nesto na ulazu)](/primeri/unos_do_kraja_ulaza.cpp)
 - Zadaci radjeni na casu: 
     - Izbacivanje podniske: date su niske A i B, i potrebno je ukloniti sva pojavljivanja B iz A. Na primer, za `A="dalekodalje"` i `B="da"` rezultat je `"lekolje"` ([resenje](/resenja_zadataka/izbacivanje_podniske.cpp)) 
     - [Leksikografski poredak](https://petlja.org/biblioteka/r/Zbirka/leksikografski_poredak) ([resenje](/resenja_zadataka/leks_poredak.cpp))
@@ -43,7 +52,7 @@ Sledeci termin dodatne je sreda 29. Marta u 15h, u mediateci.
     - [Podela linije na reci](https://petlja.org/biblioteka/r/Zbirka/podela_linije_na_reci) ([resenje](/resenja_zadataka/podela_na_reci.cpp))
 
 ### 14. Feb - obnavljanje niski, funkcije `find` i `substr`
-- [Niske: pregled gradiva](/materijali/niske_pregled.md)
+- [Niske: pregled gradiva](/niske_pregled.md)
 - Zadaci i primeri sa casa:
     - Broj karakera `'a'` u niski ([resenje](/resenja_zadataka/broj_karaktera_a_niske.cpp))
     - Broj reci u liniji ([resenje](/resenja_zadataka/broj_reci_u_liniji.cpp))
