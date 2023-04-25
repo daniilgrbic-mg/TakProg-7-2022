@@ -8,6 +8,13 @@ Sledeci termin dodatne je sreda 29. Marta u 15h, u mediateci.
 - Testirati zadatke iz zbirke mozete [na petlji](https://petlja.org/biblioteka/r/kursevi/Zbirka)
 - Za proucavanje C++ sintakse korisno je nauciti da koristite reference poput [cplusplus.com](https://cplusplus.com/reference/) (gore u pretrazi trazite sta vas zanima, na primer `string` za niske, pa mozete da vidite pregled funkcija nad niskama kao sto su `substr` i `find` kao i primere kodova)
 
+### 25. April - grafovi
+- [Reprezentacija](/grafovi/1_reprezentacija.cpp)
+- [BFS](/grafovi/2_bfs.cpp)
+- [BFS + put](/grafovi/3_bfs_put.cpp)
+- [Udruzenje Tenisera - SIO 2021](/grafovi/udruzenje.cpp)
+- [Podsetnik funkcija](./podsetnik_fja.md)
+
 ### 29. Mart - zadaci iz rekurzije i mapa
 - [Prosledjivanje argumenata po vrednosti i po adresi](/primeri/funkcije_argumenti.cpp)
 - [Efikasno racunanje stepena](/primeri/rek_stepenovanje.cpp)
