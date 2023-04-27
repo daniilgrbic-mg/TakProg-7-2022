@@ -1,14 +1,15 @@
 # TakProg-7
 
-```
-Sledeci termin dodatne je sreda 29. Marta u 15h, u mediateci.
-```
-
 - [**Petljina zbirka sa zadacima i resenjima (pdf)**](https://petljamediastorage.blob.core.windows.net/root/Media/Default/Kursevi/Zbirka/Zbirka1cpp.pdf)
 - Testirati zadatke iz zbirke mozete [na petlji](https://petlja.org/biblioteka/r/kursevi/Zbirka)
 - Za proucavanje C++ sintakse korisno je nauciti da koristite reference poput [cplusplus.com](https://cplusplus.com/reference/) (gore u pretrazi trazite sta vas zanima, na primer `string` za niske, pa mozete da vidite pregled funkcija nad niskama kao sto su `substr` i `find` kao i primere kodova)
 
-### 25. April - grafovi
+### 27. April (online) - trazenje najkraceg puta (Dijkstra)
+- [Dajkstrin algoritam (vikipedija)](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
+- [Dajkstrin algoritam (kod)](/grafovi/5_dijkstra.cpp)
+- [Red sa prioritetom (koristeci `set` i `priority_queue`)](/grafovi/red_sa_prioritetom.cpp)
+
+### 25. April (online) - grafovi
 - [Reprezentacija](/grafovi/1_reprezentacija.cpp)
 - [BFS](/grafovi/2_bfs.cpp)
 - [BFS + put](/grafovi/3_bfs_put.cpp)
