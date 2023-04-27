@@ -1,8 +1,12 @@
 # TakProg-7
 
+### Materijali i linkovi
+
 - [**Petljina zbirka sa zadacima i resenjima (pdf)**](https://petljamediastorage.blob.core.windows.net/root/Media/Default/Kursevi/Zbirka/Zbirka1cpp.pdf)
 - Testirati zadatke iz zbirke mozete [na petlji](https://petlja.org/biblioteka/r/kursevi/Zbirka)
 - Za proucavanje C++ sintakse korisno je nauciti da koristite reference poput [cplusplus.com](https://cplusplus.com/reference/) (gore u pretrazi trazite sta vas zanima, na primer `string` za niske, pa mozete da vidite pregled funkcija nad niskama kao sto su `substr` i `find` kao i primere kodova)
+- Vizualizacija grafova: [*csacademy.com/app/graph_editor/*](https://www.csacademy.com/app/graph_editor/)
+- Olican sajt za ucenje algoritama: [*cp-algorithms.com*](https://cp-algorithms.com/)
 
 ### 27. April (online) - trazenje najkraceg puta (Dijkstra)
 - [Dajkstrin algoritam (vikipedija)](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
