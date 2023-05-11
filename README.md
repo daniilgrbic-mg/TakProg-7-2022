@@ -8,6 +8,14 @@
 - Vizualizacija grafova: [*csacademy.com/app/graph_editor/*](https://www.csacademy.com/app/graph_editor/)
 - Olican sajt za ucenje algoritama: [*cp-algorithms.com*](https://cp-algorithms.com/)
 
+### 9. Maj (online) - uvod u strukture i pokazivace
+- [Pokazivaci - uvod](/pokazivaci/uvod.cpp)
+- [Dinamicki alocirani nizovi](/pokazivaci/nizovi.cpp)
+- [Strukture - prvi primer](/pokazivaci/strukture.cpp)
+- [Strukture - geometrija](/pokazivaci/geometrija.cpp)
+- [Arrow syntax `->`](/pokazivaci/arrow_syntax.cpp)
+- [Podsetnik: prosledjivanje po vrednosti i po referenci](/pokazivaci/argumenti.cpp)
+
 ### 27. April (online) - trazenje najkraceg puta (Dijkstra)
 - [Dajkstrin algoritam (vikipedija)](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
 - [Dajkstrin algoritam (kod)](/grafovi/5_dijkstra.cpp)
