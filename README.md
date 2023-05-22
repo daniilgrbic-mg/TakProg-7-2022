@@ -8,6 +8,10 @@
 - Vizualizacija grafova: [*csacademy.com/app/graph_editor/*](https://www.csacademy.com/app/graph_editor/)
 - Olican sajt za ucenje algoritama: [*cp-algorithms.com*](https://cp-algorithms.com/)
 
+### 22. Maj (online) - pokazivaci obnavljanje, povezane liste, trie
+- [Queue Implementacija](/pokazivaci/queue.cpp)
+- [Trie](/strukture/trie.cpp)
+
 ### 9. Maj (online) - uvod u strukture i pokazivace
 - [Pokazivaci - uvod](/pokazivaci/uvod.cpp)
 - [Dinamicki alocirani nizovi](/pokazivaci/nizovi.cpp)
