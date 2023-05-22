@@ -13,7 +13,7 @@ int main() {
     niz[1] = 4;
     niz[2] = 10;
 
-    for (int i= 0; i < 3; i++)
+    for (int i= 0; i < n; i++)
         cout << niz[i] << endl;
 
     delete[] niz;
